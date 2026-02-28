@@ -1,24 +1,22 @@
 <div align="center">
 
-  <!-- Banner animado -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Didi%20Mendoza&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Full%20Stack%20%7C%20Mobile&descAlignY=58&descColor=a78bfa&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Didi%20Mendoza&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Mobile%20%7C%20Cloud&descAlignY=58&descColor=a78bfa&animation=fadeIn" />
 
 </div>
 
 <div align="center">
 
-  <!-- Typing animation -->
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Mobile+Developer+with+Kotlin+%F0%9F%93%B1;AWS+%26+Cloud+Enthusiast+%E2%98%81%EF%B8%8F;Software+Engineering+Student+%F0%9F%8E%93;Always+learning+new+things+%F0%9F%8C%B1)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Mobile+Developer+with+Kotlin;AWS+%26+Cloud+Enthusiast;Always+learning+new+things)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 ```typescript
 const didi: Developer = {
-  name:       "Didi Mendoza",
+  name:       "Didier Antonio Mendoza",
   role:       "Software Engineering",
   location:   "México 🇲🇽🌮",
   focus:      ["Full Stack Development", "Mobile Apps", "Cloud Architecture"],
@@ -54,6 +52,13 @@ const didi: Developer = {
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 </p>
 
+### Databases
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
+
 ### Cloud & DevOps
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900"/>
@@ -62,22 +67,20 @@ const didi: Developer = {
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
----
 
-## GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=didiermend0zacontact-png&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=didiermend0zacontact-png&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</div>
+## My Contributions
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=didiermend0zacontact-png&theme=tokyonight&hide_border=true" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/didiermend0zacontact-png/didiermend0zacontact-png/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/didiermend0zacontact-png/didiermend0zacontact-png/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/didiermend0zacontact-png/didiermend0zacontact-png/output/github-snake.svg" />
+  </picture>
 </div>
 
 ---
 
-##  Connect with me
+## Connect with me
 
 <div align="center">
 
